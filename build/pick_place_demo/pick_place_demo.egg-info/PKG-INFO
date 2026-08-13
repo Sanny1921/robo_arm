@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: pick-place-demo
+Version: 0.0.0
+Summary: Simple pick-and-place demo in Gazebo with MoveIt
+Maintainer: Sanny Tiwari
+Maintainer-email: sunnykrtiwari192114@gmail.com
+License: Apache-2.0

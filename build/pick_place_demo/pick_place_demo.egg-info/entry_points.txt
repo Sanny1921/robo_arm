@@ -1,0 +1,2 @@
+[console_scripts]
+pick_place_node = pick_place_demo.pick_place_node:main
